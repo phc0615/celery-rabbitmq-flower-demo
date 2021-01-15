@@ -1,2 +1,2 @@
-### Initial asynchronous tasks setup using Rabbitmq, Celery, and Flower ###
+### An initial asynchronous tasks setup using Rabbitmq, Celery, and Flower ###
 
